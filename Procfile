@@ -1,1 +1,1 @@
-web: python main.py
+web: python Квест_Алиса.py
